@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-page-transition/static/css/main.d5389ca0.chunk.css",
+    "main.js": "/react-page-transition/static/js/main.d30f5a75.chunk.js",
+    "main.js.map": "/react-page-transition/static/js/main.d30f5a75.chunk.js.map",
+    "runtime-main.js": "/react-page-transition/static/js/runtime-main.ad1d3137.js",
+    "runtime-main.js.map": "/react-page-transition/static/js/runtime-main.ad1d3137.js.map",
+    "static/js/2.1587557d.chunk.js": "/react-page-transition/static/js/2.1587557d.chunk.js",
+    "static/js/2.1587557d.chunk.js.map": "/react-page-transition/static/js/2.1587557d.chunk.js.map",
+    "index.html": "/react-page-transition/index.html",
+    "precache-manifest.19a95ad428c54ff67c6084b963884250.js": "/react-page-transition/precache-manifest.19a95ad428c54ff67c6084b963884250.js",
+    "service-worker.js": "/react-page-transition/service-worker.js",
+    "static/css/main.d5389ca0.chunk.css.map": "/react-page-transition/static/css/main.d5389ca0.chunk.css.map",
+    "static/js/2.1587557d.chunk.js.LICENSE.txt": "/react-page-transition/static/js/2.1587557d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1d3137.js",
+    "static/js/2.1587557d.chunk.js",
+    "static/css/main.d5389ca0.chunk.css",
+    "static/js/main.d30f5a75.chunk.js"
+  ]
+}
